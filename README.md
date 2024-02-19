@@ -3,7 +3,7 @@
 ## Project Title: Book Recommender
 
 ### Description:
-The Book Recommender is a web application built using Flask, HTML, and CSS. It allows users to enter the name of a book and receive recommendations for similar books along with their authors and cover images. The application utilizes a simple Flask server to handle user requests, fetch recommendations from a dummy recommendation function, and render the recommendations on the frontend.
+The Book Recommender is a web application built using Flask, HTML, and CSS. It allows users to enter the name of a book and receive recommendations for similar books along with their authors and cover images. The application utilizes a simple Flask server to handle user requests, fetch recommendations from a recommendation function, and render the recommendations on the frontend.
 
 Features:
 
